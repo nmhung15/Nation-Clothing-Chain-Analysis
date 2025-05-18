@@ -1,0 +1,14 @@
+# Backup Power BI
+*.tmp
+*.bak
+*.cache
+
+#  Windows/macOS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# macOS
+._*
