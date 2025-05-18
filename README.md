@@ -29,14 +29,14 @@ Các mục tiêu chính:
 
 ## Nhiệm vụ nhóm
 
-| Họ và tên          | Mã số sinh viên | Phân công công việc                                       |
-|--------------------|-----------------|-----------------------------------------------------------|
-| Đào Huy Hoàng      | 21110297        | Làm Dashboard 1, viết báo cáo, thiết kế outline, tổng hợp |
-| Nguyễn Vũ Tiến Dũng| 21110273        | Làm Dashboard 3, viết báo cáo                             |
-| Lê Hồng Cát        | 21110249        | Viết báo cáo, đóng góp ý kiến, thuyết trình               |
-| **Nguyễn Minh Hùng**   | 21110301        | Làm Dashboard 2, viết báo cáo                             |
-| Nguyễn Trung Đức   | 21110269        | Làm Dashboard 2, viết báo cáo                             |
-| Phạm Ngọc Trai     | 21110196        | Viết báo cáo, đóng góp ý kiến                             |
+| Họ và tên          | Phân công công việc                                       |
+|--------------------|-----------------------------------------------------------|
+| Đào Huy Hoàng      | Làm Dashboard 1, viết báo cáo, thiết kế outline, tổng hợp |
+| Nguyễn Vũ Tiến Dũng| Làm Dashboard 3, viết báo cáo                             |
+| Lê Hồng Cát        | Viết báo cáo, đóng góp ý kiến, thuyết trình               |
+| **Nguyễn Minh Hùng**  | Làm Dashboard 2, viết báo cáo                             |
+| Nguyễn Trung Đức   | Làm Dashboard 2, viết báo cáo                             |
+| Phạm Ngọc Trai     | Viết báo cáo, đóng góp ý kiến                             |
 
 ---
 
