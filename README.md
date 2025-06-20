@@ -49,7 +49,7 @@ Các mục tiêu chính:
 
 ### Dashboard Product Inventory
 
-![Dashboard Product Inventory](images/Dashboard_Market_Insight.png)
+![Dashboard Product Inventory](images/Dashboard_Product_Inventory.png)
 
 ### Dashboard Consumer Analysis
 
